@@ -1,6 +1,6 @@
 # Privacy Policy for 2048 Routes
 
-Effective Date: [Date]
+Effective Date: Feb 8 2025
 
 ## Introduction
 2048 Routes, we respect your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and disclose information about you when you use our app ("2048 Routes").
