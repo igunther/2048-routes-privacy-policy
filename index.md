@@ -54,5 +54,5 @@ We may update this Privacy Policy from time to time. If we make significant chan
 ## Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-**Email:** developer@gunther.cc  
+**Email:** 2048routes@gunther.cc  
 
