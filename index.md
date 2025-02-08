@@ -1,4 +1,4 @@
-# Privacy Policy for [Your App Name]
+# Privacy Policy for 2048 Routes
 
 Effective Date: [Date]
 
